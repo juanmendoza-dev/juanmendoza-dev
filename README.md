@@ -10,25 +10,25 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-🔭 Currently building: [Polymarket / Kalshi Profit Tracker](https://github.com/juanmendoza-dev/Polymarket-Profit-Calculator)
+ Currently building: [Polymarket / Kalshi Profit Tracker](https://github.com/juanmendoza-dev/Polymarket-Profit-Calculator)
 
-💼 Open to opportunities — [Let's connect!](https://www.linkedin.com/in/juan-mendoza-503601337/)
+ Open to opportunities — [Let's connect!](https://www.linkedin.com/in/juan-mendoza-503601337/)
 
-## 🌱 Current Focus Areas
+##  Current Focus Areas
 - Advanced C++ (memory management, template metaprogramming)
 - Crypto & Prediction Markets (Polymarket, Kalshi APIs)
 - Security Engineering (exploit development, secure coding)
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
 </p>
 
-## 📊 GitHub Analytics
+##  GitHub Analytics
 
 <p align="left">
   <img src="https://super-hosting.vercel.app/api?username=juanmendoza-dev&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
