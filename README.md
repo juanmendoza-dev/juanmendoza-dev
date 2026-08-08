@@ -14,7 +14,7 @@
 
  Currently building: [Polymarket / Kalshi Profit Tracker](https://github.com/juanmendoza-dev/Polymarket-Profit-Calculator)
 
- Open to opportunities — [Let's connect!](https://www.linkedin.com/in/juan-mendoza-503601337/)
+ Open to opportunities: [Let's connect!](https://www.linkedin.com/in/juan-mendoza-503601337/)
 
 ##  Current Focus Areas
 - Advanced C++ (memory management, template metaprogramming)
