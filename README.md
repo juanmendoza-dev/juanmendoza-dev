@@ -12,7 +12,9 @@
 
 ## About Me
 
- Currently building: [Polymarket / Kalshi Profit Tracker](https://github.com/juanmendoza-dev/Polymarket-Profit-Calculator)
+ Currently building: [Trojan Troy: e2e Encrypted chat app](https://github.com/juanmendoza-dev/Trojan-Troy)
+
+ Also Building: [smarty-f1: Uses ML/AI to predict race winners, tire placement, weather conditions, etc.](https://github.com/juanmendoza-dev/smarty-f1)
 
  Open to opportunities: [Let's connect!](https://www.linkedin.com/in/juan-mendoza-503601337/)
 
